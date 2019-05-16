@@ -257,6 +257,7 @@ body{
     background: url("../imgs/carl_bg.png") no-repeat;
 }
 .kuai .b:hover{
+    background: url("../imgs/carl_bg.png") no-repeat -225px 0;
     color: #000;
 
 }
